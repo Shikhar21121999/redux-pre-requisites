@@ -1,0 +1,25 @@
+{
+  "name": "redux-pre-requisites",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "composing_piping_lodash.js",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shikhar21121999/redux-pre-requisites.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shikhar21121999/redux-pre-requisites/issues"
+  },
+  "homepage": "https://github.com/Shikhar21121999/redux-pre-requisites#readme"
+}
